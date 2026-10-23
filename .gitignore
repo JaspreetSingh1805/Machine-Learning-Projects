@@ -1,0 +1,22 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+.vscode/
+
+# Anaconda project files
+anaconda_projects/
+**/anaconda_projects/
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
